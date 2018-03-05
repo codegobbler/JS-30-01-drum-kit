@@ -1,2 +1,2 @@
 # JS-30-01-drum-kit
-Javascript30 drum kit tutorial
+Javascript30 01 drum kit tutorial
